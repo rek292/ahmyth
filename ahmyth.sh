@@ -74,3 +74,5 @@ echo "+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+"
 cd apksigner
 
 bash apksigner.sh
+
+exit
