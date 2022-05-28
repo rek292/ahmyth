@@ -10,7 +10,7 @@ sudo apt-get update && sudo apt-get upgrade
 
 sudo apt-get install figlet
 
-sudo apt-get install jarsigner
+sudo apt-get install open-jdk-11-jdk
 
 sudo apt-get install zipalign
 
