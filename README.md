@@ -14,6 +14,8 @@ sudo apt-get install openjdk-8-jdk
 
 sudo apt-get install zipalign
 
+sudo apt-get install apktool
+
 sudo git clone https://github.com/rek292/ahmyth
 
 cd ahmyth
