@@ -26,7 +26,7 @@ rm -rf logs.txt
 
 rm -rf $apkpath
 
-echo "[+] Apk Saved in : --> $PWD/$name.apk"
+echo "[+] Apk Saved in --> : $PWD/$name.apk"
 echo ""
 echo "[*] Closing APKSIGNER ..."
 echo""
